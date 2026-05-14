@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Question / Discussion
+    url: https://github.com/ysk-abe/gitinprogress-issues/issues?q=label%3Aquestion
+    about: For general questions, search existing issues with the "question" label first.
+  - name: Security vulnerability
+    url: https://github.com/ysk-abe/gitinprogress-issues/security/advisories/new
+    about: Report security vulnerabilities privately via GitHub Security Advisories.
